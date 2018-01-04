@@ -56,7 +56,7 @@ def one_example_of_danger():
     # ------------------------------------------------------------------
 
     # Un-comment these as you do the above exercise.
-    run_test_move_randomly()
+    # run_test_move_randomly()
     run_test_repeat_move_randomly()
 
 
@@ -175,7 +175,7 @@ class BankAccount(object):
         # the object, but there is nothing to prevent that.
         # Hence, the danger.
         # --------------------------------------------------------------
-        self.give_money_to_david()
+        # self.give_money_to_david()
 
     def pay_for_college(self, tuition):
         print()
